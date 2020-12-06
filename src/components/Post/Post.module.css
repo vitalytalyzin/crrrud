@@ -1,0 +1,10 @@
+.wrapper {
+  padding: 16px;
+  margin: 16px 0;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.post {
+  font-size: 32px;
+}
